@@ -101,7 +101,7 @@ function App() {
 
   return (
     <>
-      <h1 style={{ textAlign: "center", color: "#fff" }}>Chanmax</h1>
+      <h1 style={{ textAlign: "center", color: "#fff" }}>Online Video Call</h1>
       <div className="container">
         <div className="video-container">
           <div className="video">
